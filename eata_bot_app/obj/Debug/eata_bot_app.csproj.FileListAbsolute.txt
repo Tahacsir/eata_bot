@@ -1,0 +1,10 @@
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\bin\Debug\eata_bot_app.exe.config
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\bin\Debug\eata_bot_app.exe
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\bin\Debug\eata_bot_app.pdb
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\obj\Debug\eata_bot_app.csproj.AssemblyReference.cache
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\obj\Debug\eata_bot_app.Form1.resources
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\obj\Debug\eata_bot_app.Properties.Resources.resources
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\obj\Debug\eata_bot_app.csproj.GenerateResource.cache
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\obj\Debug\eata_bot_app.csproj.CoreCompileInputs.cache
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\obj\Debug\eata_bot_app.exe
+C:\Users\rezao\source\repos\eata_bot_app\eata_bot_app\obj\Debug\eata_bot_app.pdb
